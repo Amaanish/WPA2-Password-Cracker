@@ -7,10 +7,10 @@ This was created for CSCI369 Project in collaboration with Yaasir Bin Muneer.
 
 ---
 
-## 🧩 Features
+##  Features
 
 -  Extract WPA2 handshake data automatically from `.cap` files using `aircrack-ng`.
-- 🧠 Attack methods:
+-  Attack methods:
   - **Dictionary Attack** — test known passwords.
   - **Hybrid Attack** — modify dictionary entries with common patterns.
   - **Brute Force** — test all combinations of characters (short passwords only).
@@ -20,7 +20,7 @@ This was created for CSCI369 Project in collaboration with Yaasir Bin Muneer.
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ### Python Dependencies (use 3.10)
 ### Kali Linux
