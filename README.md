@@ -10,15 +10,15 @@ A comprehensive WPA2 handshake cracking tool designed for educational purposes a
 
 ##  Features
 
-- ** Automatic Handshake Extraction**: Seamlessly extract WPA2 handshake data from `.cap` files using `aircrack-ng`
-- ** Multiple Attack Methods**:
-  - ** Dictionary Attack**: Test passwords from wordlists
-  - ** Hybrid Attack**: Enhance dictionary entries with common patterns and modifications
-  - ** Brute Force Attack**: Systematically test all character combinations (optimized for short passwords)
-- ** User-Friendly GUI**: Built with `tkinter` for intuitive operation
-- ** Smart Wordlist Generator**: Create personalized dictionaries based on target information
-- ** Multithreaded Interface**: Non-blocking execution for smooth user experience
-- ** Real-time Progress Tracking**: Monitor cracking progress with detailed output
+-  Automatic Handshake Extraction**: Seamlessly extract WPA2 handshake data from `.cap` files using `aircrack-ng`
+-  Multiple Attack Methods**:
+  -  Dictionary Attack**: Test passwords from wordlists
+  -  Hybrid Attack**: Enhance dictionary entries with common patterns and modifications
+  -  Brute Force Attack**: Systematically test all character combinations (optimized for short passwords)
+-  User-Friendly GUI**: Built with `tkinter` for intuitive operation
+-  Smart Wordlist Generator**: Create personalized dictionaries based on target information
+-  Multithreaded Interface**: Non-blocking execution for smooth user experience
+-  Real-time Progress Tracking**: Monitor cracking progress with detailed output
 
 ---
 
